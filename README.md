@@ -1,5 +1,5 @@
 # EX No.5.1.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
-## DATE:
+## DATE:09-12-2025
 
 ## AIM: 
 To create orthographic view of given 3D model
@@ -37,6 +37,7 @@ Switch to drawing mode from design mode
 
 ## OUTPUT
 
+<img width="1184" height="835" alt="Screenshot 2025-12-12 131340" src="https://github.com/user-attachments/assets/80ef65a5-ff72-41df-bd3c-d416766c29ca" />
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
